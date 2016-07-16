@@ -1,0 +1,23 @@
+<div class="header">
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="col-sm-4">
+                <img src="{{ site.favicon | prepend: site.baseurl }}" title="Avatar" alt="My Avatar">
+                <h4>{{ site.author.name }}</h4>
+                <p>{{ site.author.title }}</p>
+                <p class="muted">{{ site.author.address }}</p>
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-sm-4 visible-md-block visible-lg-block visible-sm-block">
+            <p><i class="fa fa-mobile fa-fw"></i> {{ site.author.phone }} </p>
+                <p><i class="fa fa-envelope-o fa-fw"></i> {{ site.author.email }} </p>
+                <p><i class="fa fa-link fa-fw"></i><a href="//douban.com/people/{{ site.author.github }}" target="_blank">  douban {{ site.author.github }} </a></p>
+                <p><i class="fa fa-linkedin-square fa-fw"></i> <a href="//linkedin.com/in/{{ site.author.linkedin }}" target="_blank"> linkedin.com/in/{{ site.author.linkedin }} </a></p>
+                <p><i class="fa fa-weibo fa-fw"></i> <a href="//weibo.com/{{ site.author.weibo }}" target="_blank">  @{{ site.author.weibo }} </a></p>
+            </div>
+            <div class="col-sm-4 visible-md-block visible-lg-block">
+                <a href="#" class="btn btn-dark"><i class="fa fa-download fa-fw"></i> Download.pdf </a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,83 @@
+# Site settings
+title: Angela Wang 
+description: Angela Wang
+favicon: /assets/img/wechat.JPG
+baseurl: "/CV"
+url:  ""
+rss_url: ""
+google_analytics: 
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Angela Wang
+  title: Social Media Expert
+  address: Beijing, China
+  email: angeler.wang@hotmail.com
+  link: 
+  weibo: 3223825287
+  github: 54397745
+  linkedin: 凯华-王-19b064a7
+  twitter: 
+  phone: 18600609382
+  gavatar: /assets/img/wechat.JPG
+  stackoverflow:
+#  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: 点石传媒
+      location: Beijing, China
+      title: Project Manager / 项目经理
+      started: 2015
+      duration: (2015 - Present)
+      description: Local agency focusing on social media marketing in China for both Chinese and foreign brands. Overseas a team of 8 whose task it is to manage multiple social media fan pages. <br><br> 目前我在点石传媒就职，我的职位是项目经理，负责国内国外客户的网络营销工作。我的职责是撰写营销方案并且带领团队完成项目指标。作为项目经理我对社交媒体营销有了更高层次的理解。我希望在社交媒体营销或翻译行业有更长远的发展.
+    - work2:
+      company: Digital Jungle
+      location: Beijing, China
+      title: Community Manager / 社交媒体管理
+      started: 2014
+      duration: (2014 - 2015)
+      description:  Digital Jungle (Australian co.) connects western brands with Chinese audiences on social media. Managed clients' Weibo, Douban and WeChat fan pages, created campaigns and strategies to engage with various communities. Also translated articles and blog posts from English to Chinese as well adapted its content to Chinese audiences. This job taught me how to best promote western brands in China. <br><br> 赛美特集团是一家专门做国外品牌入驻中国的社交媒体营销的澳洲外企。我在该公司一开始负责的是内容编辑，后因工作表现突出，继而参与英文方案的撰写并运营客户的社交媒体账号，例如微博，微信，豆瓣等。由于我拥有良好的英文读写基础，我还负责一部分翻译工作，并直接参与国外客户的会议交流。在此工作期间，我对国外品牌在中国的社交媒体营销有了深入的了解.
+    - work3:
+      company: 智汇通商业信息有限公司
+      location: Beijing, China
+      title: Content Editor / 内容编辑
+      started: 2013
+      duration: (2013 - 2014)
+      description: Content writing and strategy design for the app of the company. Participated in designing the app, and promoted it on social media channels. Grapsed great understanding of the internet and app industries. <br><br> 我负责该公司即将上市的APP内容的撰写并和团队一起负责整体策略的研究。我属于该APP的创始人之一，并且每天都要更新该APP的内容并改进版式和各大板块的内容。该APP叫做云秘书，针对人群为高管，帮助他们更好的制定策略和布局工作。在2013年APP尚属新兴行业，我较早接触了APP行业的前端.
+  educationHistory:
+    - education1:
+      organization: China Agriculture University / 中国农业大学（211，985大学）
+      location: Beijing, China
+      degree: Bachelor
+      major: Public Administration / 主修公共管理
+      started: 2009
+      duration: (2009 - 2013)
+      description: Bachelor course covering, citizen insurance systems, marketing theory and economics, history of western politics and philosophy. Learned deep understanding of society and economics of the world. <br><br> 我在大学主修公共管理，主要研究社会系统，社会保障以及市场营销。我的主修课程要求必须熟知经济理论。在大学期间我还自学了北大国际国际关系学院教授唐士其编译的《西方政治思想史》。大学教育让我对世界经济，社会系统，经济市场有了深入的了解.
+  languages:
+    - language1:
+      name: Chinese
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+  programmingSkills:
+    - skill1:
+      name: Social Media Strategy - 社交媒体营销策略方案撰写
+      percentage: 90%
+    - skill2:
+      name: Translation - 中英文翻译
+      percentage: 80%
+    - skill3:
+      name: Content writing - 社交媒体内容撰写
+      percentage: 60%
+    - skill4:
+      name: Campaign design - 社交媒体活动制定
+      percentage: 70%
+    - skill5:
+      name: Project management - 网络营销项目运营
+      percentage: 90%
