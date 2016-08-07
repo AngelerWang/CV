@@ -5,7 +5,7 @@ favicon: /assets/img/wechat.JPG
 baseurl: "/CV"
 url:  ""
 rss_url: ""
-google_analytics: 
+google_analytics: UA-82115253-1
 
 # Build settings
 markdown: kramdown
